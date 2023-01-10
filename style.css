@@ -1,0 +1,21 @@
+body, html{
+  height: 100;
+  width: 100;
+  background-color: #123456;
+  background-image: url("tour.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+h1{
+  color: white;
+}
+head{
+  vertical-align:  middle;
+  align-content: center;
+}
+myBtn{
+
+}
